@@ -1,6 +1,10 @@
 ---
 title: "Lab 03 - Nobel laureates"
-author: "INSERT TEAM MEMBER NAMES HERE"
+<<<<<<< HEAD
+author: "Hugh, Innes, Luca, Caitlyn"
+=======
+author: "Hugh, Innes, Luca, Caitlyn"
+>>>>>>> ebad1a9b3ec10dd800610d64f60e521e835a8d15
 date: "`r Sys.Date()`"
 output: html_document
 ---
