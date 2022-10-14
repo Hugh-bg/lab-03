@@ -20,7 +20,7 @@ nobel <- read_csv("data/nobel.csv")
 
 #### Narrative
 
-*Remove this text and add your answer here.*
+935 rows and 26 variables are in this data.
 
 
 ### Exercise 2
